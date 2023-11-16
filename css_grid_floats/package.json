@@ -1,0 +1,20 @@
+{
+  "name": "css_grid_floats",
+  "version": "1.0.0",
+  "description": "learning css grid using float layout",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass grid.scss style.css -w"
+  },
+  "keywords": [
+    "css",
+    "grid",
+    "float",
+    "layout"
+  ],
+  "author": "arnoliono",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^9.0.0"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "section_4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass input.scss output.css"
+  },
+  "author": "arnoliono",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^9.0.0",
+    "sass": "^1.69.5"
+  }
+}
